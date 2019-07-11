@@ -6,6 +6,9 @@
 
 Typescript files:
 
+[Polymer Library](https://polymer-library.polymer-project.org/3.0/docs/about_30)
+
+
 ```bash
 
 ./tensorboard/plugins/projector/vz_projector/knn.ts
