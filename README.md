@@ -6,42 +6,38 @@
 
 ## MD
 
-[/docs/r1/overview.md](https://github.com/mchirico/tensorboard/docs/r1/overview.md)<br>
-[/docs/r1/summaries.md](https://github.com/mchirico/tensorboard/docs/r1/summaries.md)<br>
-[/docs/r1/graphs.md](https://github.com/mchirico/tensorboard/docs/r1/graphs.md)<br>
-[/docs/r1/histograms.md](https://github.com/mchirico/tensorboard/docs/r1/histograms.md)<br>
-[/docs/api_docs/python/index.md](https://github.com/mchirico/tensorboard/docs/api_docs/python/index.md)<br>
-[/docs/api_docs/README.md](https://github.com/mchirico/tensorboard/docs/api_docs/README.md)<br>
-[/docs/r2/what_if_tool.md](https://github.com/mchirico/tensorboard/docs/r2/what_if_tool.md)<br>
-[/README.md](https://github.com/mchirico/tensorboard/README.md)<br>
-[/RELEASE.md](https://github.com/mchirico/tensorboard/RELEASE.md)<br>
-[/CONTRIBUTING.md](https://github.com/mchirico/tensorboard/CONTRIBUTING.md)<br>
-[/tensorboard/compat/proto/README.md](https://github.com/mchirico/tensorboard/compat/proto/README.md)<br>
-[/tensorboard/plugins/mesh/README.md](https://github.com/mchirico/tensorboard/plugins/mesh/README.md)<br>
-[/tensorboard/plugins/mesh/http_api.md](https://github.com/mchirico/tensorboard/plugins/mesh/http_api.md)<br>
-[/tensorboard/plugins/projector/README.md](https://github.com/mchirico/tensorboard/plugins/projector/README.md)<br>
-[/tensorboard/plugins/custom_scalar/README.md](https://github.com/mchirico/tensorboard/plugins/custom_scalar/README.md)<br>
-[/tensorboard/plugins/pr_curve/README.md](https://github.com/mchirico/tensorboard/plugins/pr_curve/README.md)<br>
-[/tensorboard/plugins/pr_curve/http_api.md](https://github.com/mchirico/tensorboard/plugins/pr_curve/http_api.md)<br>
-[/tensorboard/plugins/example/README.md](https://github.com/mchirico/tensorboard/plugins/example/README.md)<br>
-[/tensorboard/plugins/graph/http_api.md](https://github.com/mchirico/tensorboard/plugins/graph/http_api.md)<br>
-[/tensorboard/plugins/distribution/http_api.md](https://github.com/mchirico/tensorboard/plugins/distribution/http_api.md)<br>
-[/tensorboard/plugins/beholder/README.md](https://github.com/mchirico/tensorboard/plugins/beholder/README.md)<br>
-[/tensorboard/plugins/image/http_api.md](https://github.com/mchirico/tensorboard/plugins/image/http_api.md)<br>
-[/tensorboard/plugins/hparams/http_api.md](https://github.com/mchirico/tensorboard/plugins/hparams/http_api.md)<br>
-[/tensorboard/plugins/audio/http_api.md](https://github.com/mchirico/tensorboard/plugins/audio/http_api.md)<br>
-[/tensorboard/plugins/profile/README.md](https://github.com/mchirico/tensorboard/plugins/profile/README.md)<br>
-[/tensorboard/plugins/debugger/README.md](https://github.com/mchirico/tensorboard/plugins/debugger/README.md)<br>
-[/tensorboard/plugins/interactive_inference/witwidget/pip_package/RELEASE.md](https://github.com/mchirico/tensorboard/plugins/interactive_inference/witwidget/pip_package/RELEASE.md)<br>
-[/tensorboard/plugins/interactive_inference/witwidget/notebook/jupyter/js/README.md](https://github.com/mchirico/tensorboard/plugins/interactive_inference/witwidget/notebook/jupyter/js/README.md)<br>
-[/tensorboard/plugins/interactive_inference/README.md](https://github.com/mchirico/tensorboard/plugins/interactive_inference/README.md)<br>
-[/tensorboard/plugins/scalar/http_api.md](https://github.com/mchirico/tensorboard/plugins/scalar/http_api.md)<br>
-[/tensorboard/plugins/histogram/README.md](https://github.com/mchirico/tensorboard/plugins/histogram/README.md)<br>
-[/tensorboard/plugins/histogram/http_api.md](https://github.com/mchirico/tensorboard/plugins/histogram/http_api.md)<br>
-[/tensorboard/components/tf_imports/README.md](https://github.com/mchirico/tensorboard/components/tf_imports/README.md)<br>
-[/tensorboard/http_api.md](https://github.com/mchirico/tensorboard/http_api.md)<br>
-
-
+[/docs/r1/overview.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/docs/r1/overview.md)<br>
+[/docs/r1/summaries.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/docs/r1/summaries.md)<br>
+[/docs/r1/graphs.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/docs/r1/graphs.md)<br>
+[/docs/r1/histograms.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/docs/r1/histograms.md)<br>
+[/docs/api_docs/python/index.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/docs/api_docs/python/index.md)<br>
+[/docs/api_docs/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/docs/api_docs/README.md)<br>
+[/docs/r2/what_if_tool.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/docs/r2/what_if_tool.md)<br>
+<br>
+[/proto/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/compat/proto/README.md)<br>
+[/plugins/mesh/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/mesh/README.md)<br>
+[/plugins/mesh/http_api.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/mesh/http_api.md)<br>
+[/plugins/projector/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/projector/README.md)<br>
+[/plugins/custom_scalar/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/custom_scalar/README.md)<br>
+[/plugins/pr_curve/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/pr_curve/README.md)<br>
+[/plugins/pr_curve/http_api.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/pr_curve/http_api.md)<br>
+[/plugins/example/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/example/README.md)<br>
+[/plugins/graph/http_api.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/graph/http_api.md)<br>
+[/plugins/distribution/http_api.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/distribution/http_api.md)<br>
+[/plugins/beholder/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/beholder/README.md)<br>
+[/plugins/image/http_api.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/image/http_api.md)<br>
+[/plugins/hparams/http_api.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/hparams/http_api.md)<br>
+[/plugins/audio/http_api.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/audio/http_api.md)<br>
+[/plugins/profile/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/profile/README.md)<br>
+[/plugins/debugger/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/debugger/README.md)<br>
+[/plugins/interactive_inference/witwidget/pip_package/RELEASE.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/interactive_inference/witwidget/pip_package/RELEASE.md)<br>
+[/plugins/interactive_inference/witwidget/notebook/jupyter/js/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/interactive_inference/witwidget/notebook/jupyter/js/README.md)<br>
+[/plugins/interactive_inference/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/interactive_inference/README.md)<br>
+[/plugins/scalar/http_api.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/scalar/http_api.md)<br>
+[/plugins/histogram/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/histogram/README.md)<br>
+[/plugins/histogram/http_api.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/plugins/histogram/http_api.md)<br>
+[/components/tf_imports/README.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/components/tf_imports/README.md)<br>
+[/http_api.md](https://github.com/mchirico/tensorboard/blob/master/tensorboard/http_api.md)<br>
 
 
 
